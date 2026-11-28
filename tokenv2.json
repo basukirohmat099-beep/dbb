@@ -3,10 +3,10 @@
   "pts": [],
   "resellers": [],
   "mods": [],
-  "admins": [],
-  "tokens": [],
+  "tokens": [
+    "9094764847:AAGiwtEkQWu8mmu1aiulxqREqbnGLd3yMU8"
+  ],
   "pendingSetoran": {},
   "fullupUsers": [],
-  "pendingRoleGrants": [],
-  "allowed": true
+  "pendingRoleGrants": []
 }
